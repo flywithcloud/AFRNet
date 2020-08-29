@@ -1,3 +1,3 @@
 # AFRNet
-This is an implementation for [Zero-Shot Learning from Adversarial Feature Residual to Compact Visual Feature](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuL.3879.pdf).
+This is an implementation for [Zero-Shot Learning from Adversarial Feature Residual to Compact Visual Feature](https://arxiv.org/submit/3344955/view).
 The code will be released soon.
