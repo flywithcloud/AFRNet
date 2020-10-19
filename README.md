@@ -25,6 +25,7 @@ python wgan_proto_sel.py --dataset APY --resSize 1024 --attSize 64 --nz 64 --nep
 
 # Citation
 If you find this project useful for your research, please kindly cite this paper:
+
   @article{Liu2020ZeroShotLF,
   title={Zero-Shot Learning from Adversarial Feature Residual to Compact Visual Feature},
   author={Bo Liu and Qiulei Dong and Zhanyi Hu},
