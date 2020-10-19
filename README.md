@@ -3,7 +3,7 @@ This is an implementation for [Zero-Shot Learning from Adversarial Feature Resid
 The code will be released soon.
 
 # Datasets
-Data could be download [here](https://pan.baidu.com/s/1Swib6P5fbAWOI_LrK3ND0Q).
+Data could be download [here](https://pan.baidu.com/s/1Swib6P5fbAWOI_LrK3ND0Q) (g3ni).
 
 # Evaluate
 Trained models could be download [here] (https://pan.baidu.com/s/1CjjJwlYim-BOiTi04WXmFA) (lzea) to evaluate the proposed method by running:
