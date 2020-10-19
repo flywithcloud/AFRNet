@@ -24,7 +24,7 @@ or running code with feature selection:
 python wgan_proto_sel.py --dataset APY --resSize 1024 --attSize 64 --nz 64 --nepoch 5 --bs 512 --lr 0.00005 --modeldir './APY_proto1024_model' --syn_num 2000 --nepoch_cls 40 --bs_cls 128 --lr_cls 0.0002
 
 # Citation
-If you find this project useful for your research, please kindly cite this paper:
+If you find this project useful for your research, please cite this paper:
 
 >@article{Liu2020ZeroShotLF,
   title={Zero-Shot Learning from Adversarial Feature Residual to Compact Visual Feature},
